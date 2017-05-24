@@ -6,4 +6,8 @@ Created a server socket connection in java and connect it with my android phone 
 Your laptop will act as server which will run at specific ip and a specific port assigned by you.
 Both ip and prot no. is required to connect your android phone with laptop.
 
-Note:-
+Note:- Run RemoteDroidSeerver.java file on pc having jdk installed.
+
+                in cmd -  javac RemoteDroidServer.java
+                          java RemoteDroidServer
+
